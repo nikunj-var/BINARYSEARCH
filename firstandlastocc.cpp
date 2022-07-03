@@ -2,8 +2,8 @@
 //array.
 
 //SOLUTION-we can easily solve this type of question by binary search
-// *after that to search first and last occ make two functions firstocc and lastocc.
-// *the very first thing we have to do is divide the problem in into subproblems.
+// *after that, to search first and last occ follow below steps.
+// *the very first thing we have to do is divide the problem in into subproblems and make two functions firstocc and lastocc.
 // *and apply binary search
 
 #include<iostream>
