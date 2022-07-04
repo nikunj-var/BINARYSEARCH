@@ -1,3 +1,4 @@
+//SOLUTION USING BINARYSEARCH
 #include<iostream>
 using namespace std;
 
